@@ -30,3 +30,7 @@ export function ButtonIcon({title, ...rest}: Props){
     </TouchableOpacity>
   )
 }
+// TouchableOpacity, fica parte onde do toque do botão
+// TouchableOpacityProps, trás as propriedades em geral
+// ...rest , você declara para puxar todas as propriedades invés de ficar colocar um por um.
+//Foi criado por causa type Props, pq sem ele, não vem as propriedades.

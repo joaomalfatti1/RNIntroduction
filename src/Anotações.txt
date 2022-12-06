@@ -1,0 +1,7 @@
+
+Pastas:
+  @types: Vai pegar todas as fotos e fazer que reconhece png.
+  assets: São onde vai ficar as fotos do projeto, diferente que assets de fora, que será splash e login.
+  components: Será aqui vai ficar todos os componentes da aplicação.
+  global: Aqui será as cores vai ficar para geral
+  screens: as Telas
