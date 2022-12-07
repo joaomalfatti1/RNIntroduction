@@ -5,3 +5,9 @@ Pastas:
   components: Será aqui vai ficar todos os componentes da aplicação.
   global: Aqui será as cores vai ficar para geral
   screens: as Telas
+
+Acessórios:
+  Foi adicionado as fonts Inter e Rajdhani
+    foi colocado no App.tsx, pois ele precisa ser carregado bem antes
+
+    22:26
